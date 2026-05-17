@@ -4,7 +4,7 @@ Production-ready hub networking built exclusively on **[Azure Verified Modules (
 
 > **Module:** `Azure/avm-ptn-alz-connectivity-virtual-wan/azurerm` `~> 0.14`  
 > **File:** `connectivity.tf`  
-> **Subscription:** Connectivity (`corp-connectivity`)
+> **Subscription:** Connectivity (`plaform-connectivity`)
 
 ---
 
